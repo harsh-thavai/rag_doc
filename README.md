@@ -119,7 +119,7 @@ A **Retrieval-Augmented Generation (RAG)** based chatbot that allows users to up
 ## 🔧 Customization
 
 - **Chunk Size & Overlap** → `utils/text_splitter.py`  
-- **Retrieval Parameters** → `app4.py` (tune the number of chunks to retrieve)  
+- **Retrieval Parameters** → `app.py` (tune the number of chunks to retrieve)  
 - **LLM Settings** → `utils/llm_handler.py` (model, temperature, max tokens)  
 
 
